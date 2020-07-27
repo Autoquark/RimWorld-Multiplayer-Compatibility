@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>rwmt.MultiplayerCompatibility</packageId>
-  <name>Multiplayer Compatibility</name>
+  <packageId>Autoquark.MultiplayerCompatibility</packageId>
+  <name>Forked Multiplayer Compatibility</name>
   <author>notfood</author>
   <supportedVersions>
     <li>1.0</li>
